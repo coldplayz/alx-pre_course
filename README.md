@@ -1,1 +1,1 @@
-My first readme
+This README is for the repo root directory
